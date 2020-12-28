@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "gson-2.6.2.jar",
+            "jgoodies-forms-1.8.0.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Henry\\Downloads\\gson-2.6.2.jar",
+            "c:\\COVID Statistics\\jgoodies-forms-1.8.0.jar"
+        ]
+    }
+}
